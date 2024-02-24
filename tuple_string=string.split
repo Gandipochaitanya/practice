@@ -1,0 +1,2 @@
+tuple_string=string.split
+print(tuple_string)
